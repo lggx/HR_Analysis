@@ -1,4 +1,4 @@
-# HR_Analysis
+# HR Predictive Analysis
 
 ## Predict the probability of a candidate leaving for a new job
 
